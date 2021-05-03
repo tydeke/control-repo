@@ -15,3 +15,9 @@ forge 'https://forge.puppet.com'
 #mod 'apache',
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
+
+mod 'motd'
+  git:	'https://github.com/puppetlabs/puppetlabs-motd',
+
+mod 'gitlab'
+  git:	'https://github.com/voxpupuli/puppet-gitlab',
